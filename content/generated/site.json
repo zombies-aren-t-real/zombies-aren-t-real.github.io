@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": false,
+  "siteName": "Zombies Aren't Real Guide",
+  "shortName": "Zombies Aren't Real",
+  "description": "Explore Zombies Aren't Real with a starter roadmap, gameplay guides, release information, official links, videos, and answers to common player questions.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "201 59% 83%",
+      "foreground": "0 0% 7%",
+      "card": "201 59% 79%",
+      "card-foreground": "0 0% 7%",
+      "primary": "106 31% 37%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "201 59% 76%",
+      "muted": "201 59% 78%",
+      "muted-foreground": "0 0% 7%",
+      "border": "201 59% 67%",
+      "radius": ".75rem",
+      "card-shadow": "0 18px 50px rgba(20, 20, 30, .1)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(106 31% 37% / .2), transparent 36%)",
+      "background-pattern": "linear-gradient(hsl(0 0% 7% / .04) 1px, transparent 1px), linear-gradient(90deg, hsl(0 0% 7% / .04) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Serif 4\", Georgia, Cambria, serif",
+      "heading-weight": "600",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "cozy-wiki",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#B9DBED",
+    "accent": "#4F7C41",
+    "fontId": "source-serif"
+  },
+  "hosting": {
+    "siteUrl": "https://zombies-aren-t-real.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "store.steampowered.com"
+  ],
+  "assets": {
+    "logo": "/images/zombies-aren-t-real-logo.svg",
+    "cover": "/images/zombies-aren-t-real-cover.svg",
+    "openGraph": "/images/zombies-aren-t-real-og.svg",
+    "favicon": "/images/zombies-aren-t-real-logo.svg"
+  },
+  "game": {
+    "name": "Zombies Aren't Real",
+    "platform": "Steam",
+    "developer": "Jogamedev",
+    "genre": "",
+    "officialUrl": "https://store.steampowered.com/app/5185890/"
+  },
+  "seo": {
+    "titleTemplate": "%s | Zombies Aren't Real Guide"
+  }
+}

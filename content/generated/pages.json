@@ -1,0 +1,615 @@
+[
+  {
+    "enabled": true,
+    "slug": "arent",
+    "pageType": "guide",
+    "navLabel": "Arent",
+    "title": "Zombies Aren't Real arent: Updated Guide and Steam Guide",
+    "description": "Find the official Zombies Aren't Real Steam listing and explore beginner guides, units, defenses, economy, civilians, modes, and verified game updates.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Zombies Aren'T Real Arent: Complete Reference Table & Unlock Guide",
+      "lead": "Zombies Aren't Real arent is a common search variation for the official Steam game Zombies Aren't Real, a horde-defense strategy game developed by Jogamedev. Players deploy military forces to contain zombie infections in real-world cities and save civilians. The game entered Steam Early Access on November 13, 2026, priced at $8.99, and supports single-player and online co-op. Below you'll find the official Steam listing, beginner guidance, unit roles, defense strategies, economy tips, outbreak management, and game modes."
+    },
+    "sections": [
+      {
+        "id": "official-steam-listing-and-how-to-access-the-game",
+        "heading": "Official Steam Listing and How to Access the Game",
+        "intro": "Zombies Aren't Real is available on Steam at app ID 5185890, developed and published by Jogamedev. It entered Early Access on November 13, 2026, and is priced at $8.99. You can find it by searching the title directly on Steam or navigating to its store page.",
+        "paragraphs": [
+          "The game runs on Windows 10 and 11 (64-bit only) and requires a 4-core CPU at 3.0 GHz, 8 GB RAM, a DirectX 11 GPU with at least 2 GB VRAM, and 2 GB of free storage. If performance is uneven on minimum hardware, the store page recommends setting graphics to Low."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real arent Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Zombies Aren't Real core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        },
+        "bullets": [
+          "Platform: Steam (PC, Windows 10/11 64-bit)",
+          "Price: $8.99 (Early Access)",
+          "Release date: November 13, 2026",
+          "Developer and publisher: Jogamedev",
+          "Minimum GPU: DirectX 11 with 2 GB VRAM (e.g., GeForce GTX 750 Ti or Radeon R7 260X)",
+          "Storage required: 2 GB"
+        ]
+      },
+      {
+        "id": "core-gameplay-loop-planning-phase-and-real-time-defense",
+        "heading": "Core Gameplay Loop: Planning Phase and Real-Time Defense",
+        "intro": "Before the outbreak begins, the game gives you a bird's-eye view of the city and reveals where the infection will start. This planning window is your opportunity to study the map, anticipate spread routes, and allocate limited resources before the situation becomes live. Choosing where to position forces and how to divide your budget during this phase shapes every decision that follows.",
+        "paragraphs": [
+          "Once the infection spreads, the game shifts to real-time defense. Zombie numbers grow quickly, so the units and positions you locked in during planning are your foundation — you adapt around them rather than rebuilding from scratch. Saving civilians depends on how well your pre-outbreak plan accounts for the speed of the spread and the layout of the city."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Zombies Aren't Real arent Requirements",
+            "description": "Review the active mechanics and prerequisites inside Zombies Aren't Real before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Zombies Aren't Real patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "single-player-and-co-op-modes",
+        "heading": "Single-Player and Co-op Modes",
+        "intro": "Zombies Aren't Real offers both single-player and online co-op gameplay. You can play solo to master the core mechanics at your own pace, or team up with one friend in online co-op mode for a shared defense strategy. Co-op coordination allows you and your partner to divide resource allocation, unit placement, and outbreak response across the same map, making it possible to tackle harder scenarios together.",
+        "paragraphs": [
+          "When playing co-op, both players see the same planning phase and real-time infection spread. This shared view means you can discuss your defense approach before the outbreak begins and adapt your tactics as the zombie horde advances. The co-op limit of one additional player keeps matches focused and communication straightforward—ideal for learning the game's mechanics alongside a friend or testing advanced strategies together."
+        ]
+      },
+      {
+        "id": "steam-features-achievements-and-level-editor",
+        "heading": "Steam Features: Achievements and Level Editor",
+        "intro": "Zombies Aren't Real integrates Steam's community features to extend replayability and creative depth. The game includes Steam Achievements, which track milestones and unlocks as you progress through campaigns and master different strategies. These achievements reward specific accomplishments—such as completing outbreak scenarios under resource constraints, saving a target number of civilians, or experimenting with unit combinations—giving players clear goals beyond the core defense loop.",
+        "paragraphs": [
+          "The level editor, accessible through Steam Workshop, lets players design and share custom outbreak scenarios. You can set infection spawn points, place civilian zones, adjust resource budgets, and configure difficulty parameters to create challenges tailored to your playstyle or to test experimental tactics. Workshop integration means community creations are discoverable in-game, so you can load and attempt designs from other players without leaving Steam."
+        ]
+      },
+      {
+        "id": "third-party-guides-and-community-resources",
+        "heading": "Third-Party Guides and Community Resources",
+        "intro": "One third-party player guide, titled \"Zombies Aren't Real Official Mechanics & Early-Bird Reference,\" covers reported controls and early strategies for the game. Because the game entered Early Access in November 2026, community documentation is still developing, and the mechanics described in that guide reflect player-reported observations rather than verified official sources.",
+        "paragraphs": [
+          "As additional guides and community wikis emerge, Steam's community hub is the most reliable starting point for finding up-to-date player-written content, discussion threads, and Workshop items for the game."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Zombies Arent Real the same game as Zombies Aren't Real?",
+        "answer": "Yes. Zombies Arent Real is a common spelling variation or shorthand for the official title Zombies Aren't Real. Both refer to the same Steam Early Access horde-defense strategy game developed by Jogamedev and released on November 13, 2026. The official Steam page uses the full title with the apostrophe."
+      },
+      {
+        "question": "Where can I find Zombies Aren't Real on Steam?",
+        "answer": "Visit the official Steam store page at store.steampowered.com/app/5185890. The game is listed under the Strategy and Early Access genres. You can purchase it for $8.99 and access single-player, online co-op, achievements, and the Steam Workshop level editor from that page."
+      },
+      {
+        "question": "How do I start playing Zombies Aren't Real?",
+        "answer": "After purchasing the game on Steam, launch it and begin with the planning phase. The game shows you where the zombie infection will start and gives you time to position military forces before the outbreak spreads. Use your limited budget to deploy units, establish safe zones, and protect civilians as the infection unfolds in real time."
+      },
+      {
+        "question": "Which Zombies Aren't Real guide should I read first?",
+        "answer": "Start with the Zombies Aren't Real Beginner Guide, which walks you through planning your first successful run, allocating your opening budget, and responding when the outbreak spreads. Once you complete your first city, explore the Updates page for patch notes and the Mods page for Steam Workshop content."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "updates",
+      "mods",
+      "release-date",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "updates",
+    "pageType": "updates",
+    "navLabel": "Updates",
+    "title": "zombies aren't real early access: Updated Roadmap Guide",
+    "description": "Track Zombies Aren't Real Early Access status, official patch notes, release plans, price, and roadmap announcements with sources and dates for each update.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Updates",
+      "heading": "Zombies Aren't Real Early Access Updates and Roadmap",
+      "lead": "Zombies Aren't Real Early Access began on November 13, 2026, bringing the horde-defense strategy game to PC via Steam. The launch build includes single-player and online co-op modes, Steam Achievements, and a level editor, with additional content planned throughout the Early Access period. Developer Jogamedev has not yet published a detailed 1.0 roadmap. This page covers the current Early Access status, what's available now, pricing, system requirements, and where to track official patch notes."
+    },
+    "sections": [
+      {
+        "id": "current-early-access-status-and-launch-date",
+        "heading": "Current Early Access Status and Launch Date",
+        "intro": "Zombies Aren't Real entered Steam Early Access on November 13, 2026, developed and published by Jogamedev. As an Early Access title, the game is playable in its current state while the developer continues adding content and responding to player feedback before a full release.",
+        "paragraphs": [
+          "Players tracking updates should expect the build to evolve over the Early Access period. For details on the anticipated full release window and what Jogamedev has indicated about the 1.0 timeline, see the release date page."
+        ],
+        "table": {
+          "caption": "zombies aren't real early access Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Zombies Aren't Real core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "what-the-early-access-build-includes",
+        "heading": "What the Early Access Build Includes",
+        "intro": "Zombies Aren't Real is a horde-defense strategy game where you command military forces to contain a fast-spreading zombie infection across real-world cities while protecting civilians. The core gameplay loop gives you a bird's-eye view of your deployment zone and advance notice of where the outbreak will begin, allowing you to plan your initial response before the crisis unfolds. As the infection spreads, you adapt your strategy and redeploy forces with limited resources to maximize survival.",
+        "paragraphs": [
+          "The Early Access build supports both single-player campaigns and online co-op with one friend, letting you tackle outbreaks solo or coordinate defenses together. Steam integration includes Achievements to track your progress and milestones, plus a level editor for creating and sharing custom scenarios with the community via Steam Workshop.",
+          "For a smoother experience on lower-end hardware, the game includes adjustable graphics settings with a dedicated Low preset. Text size and camera comfort options ensure accessibility for different play styles and screen setups. See the Arent guide for detailed mechanics, upgrade strategies, and mode walkthroughs."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current zombies aren't real early access Requirements",
+            "description": "Review the active mechanics and prerequisites inside Zombies Aren't Real before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Zombies Aren't Real patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "price-regional-store-and-pc-system-requirements",
+        "heading": "Price, Regional Store and PC System Requirements",
+        "intro": "Zombies Aren't Real is priced at $8.99 USD on Steam Early Access. Steam automatically adjusts pricing by region based on local purchasing power; you can check your regional price by visiting the game's Steam store page, which displays the cost in your local currency before purchase.",
+        "paragraphs": [
+          "To run the Early Access build, your PC must meet the following minimum specifications: a 64-bit Windows 10 or 11 operating system, a 4-core CPU running at 3.0 GHz or faster (Intel Core i5-6500 or AMD Ryzen 3 1200 equivalent), 8 GB of RAM, and a DirectX 11 compatible GPU with at least 2 GB of VRAM such as Intel UHD 620, GeForce GTX 750 Ti, or Radeon R7 260X. You'll also need 2 GB of available storage space on your drive.",
+          "For the smoothest gameplay experience, Jogamedev recommends selecting the Low graphics setting in-game. This setting optimizes performance on systems meeting the minimum specs and ensures stable frame rates during intense horde-defense sequences."
+        ]
+      },
+      {
+        "id": "where-to-track-patch-notes-and-developer-updates",
+        "heading": "Where to Track Patch Notes and Developer Updates",
+        "intro": "Zombies Aren't Real updates and patch notes are published directly on the Steam store page. Subscribe to notifications there to receive alerts whenever Jogamedev releases a new build or hotfix during Early Access. The Steam community hub also hosts discussion threads where players report issues and share feedback with the development team.",
+        "paragraphs": [
+          "Since the game is in active Early Access, balance changes, bug fixes, and new features roll out regularly. Checking the Steam news section keeps you informed of planned maintenance, feature previews, and confirmed release dates for major content additions. This is the official source for patch timing and what to expect in each update.",
+          "For detailed gameplay mechanics, strategy tips, and reference guides covering the current build, see the Arent guide page, which includes third-party player contributions and in-depth walkthroughs. Community guides complement official patch notes by explaining how recent changes affect your playstyle and optimal unit placement decisions."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Zombies Aren't Real in Early Access?",
+        "answer": "Yes. The game entered Steam Early Access on November 13, 2026, developed and published by Jogamedev. Early Access means the game is playable now but remains in active development, with updates and new content expected before the full 1.0 release."
+      },
+      {
+        "question": "Where can I read official Zombies Aren't Real patch notes?",
+        "answer": "The Steam store page is the primary official channel for announcements and update details from developer Jogamedev. Third-party community guides also compile reported mechanics and strategies, though these are unofficial and should be cross-referenced with official posts."
+      },
+      {
+        "question": "How much does Zombies Aren't Real cost?",
+        "answer": "The game is priced at $8.99 on Steam. Regional pricing may vary by location and currency. To see the exact price for your region, visit the Steam store page and check the price displayed for your account."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "arent",
+      "mods",
+      "release-date",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "mods",
+    "pageType": "guide",
+    "navLabel": "Mods",
+    "title": "Zombies Aren't Real mods: Updated Modding Guide | Steam Wiki",
+    "description": "Check Zombies Aren't Real mod support, find trustworthy sources, and learn how to assess installation steps, compatibility, backups, and troubleshooting.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Zombies Aren't Real Mods and Modding Guide",
+      "lead": "Zombies Aren't Real includes Steam Workshop support, which means the game officially allows players to create, share, and download community-made content through Steam's integrated platform. As an Early Access title released in November 2026, the mod ecosystem is still forming, but the Workshop infrastructure is already in place. Below you'll find how to locate mods, assess them before installing, and troubleshoot common issues."
+    },
+    "sections": [
+      {
+        "id": "official-mod-support-through-steam-workshop",
+        "heading": "Official Mod Support Through Steam Workshop",
+        "intro": "Zombies Aren't Real launched on Steam Early Access in November 2026 with official Steam Workshop support already enabled. This means the game natively integrates with Steam's community content platform, allowing players to create, upload, and download custom maps, scenarios, and modifications without third-party tools or file management. Workshop items sync automatically through your Steam client once you subscribe, and the developer—Jogamedev—has built the infrastructure to load community content directly from the game's main menu.",
+        "paragraphs": [
+          "Because the game entered Early Access only recently, the Workshop library is still growing. You won't find thousands of entries yet, but the foundation is in place for creators to experiment with the level editor, share defensive strategies for custom cities, and test new outbreak scenarios. As the player base expands and more creators learn the editor, expect the catalog to fill with both bite-sized challenges and full campaign collections. Workshop support also means updates to subscribed items happen in the background; when a creator patches a map, Steam downloads the new version automatically."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real mods Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Zombies Aren't Real core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-browse-and-subscribe-to-workshop-items",
+        "heading": "How to Browse and Subscribe to Workshop Items",
+        "intro": "Open Steam and navigate to your library, then right-click Zombies Aren't Real and select View Community Hub. From the hub, click the Workshop tab to see all available user-generated content. You can sort by Most Popular, Most Recent, or Most Subscribed to find maps, scenarios, or tweaks that match your play style.",
+        "paragraphs": [
+          "When you find an item you want, click Subscribe on its Workshop page. Steam will automatically download and install the content the next time you launch the game. To manage your active subscriptions, return to the Workshop tab and select Your Files, then Subscribed Items. From there you can unsubscribe or re-order load priority if multiple mods affect the same systems.",
+          "Before subscribing, check the item's description for compatibility notes and read recent comments to spot any known bugs or conflicts. Since Zombies Aren't Real is in Early Access, some Workshop content may break after game updates; creators usually post status updates when fixes are needed."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Zombies Aren't Real mods Requirements",
+            "description": "Review the active mechanics and prerequisites inside Zombies Aren't Real before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Zombies Aren't Real patch notes whenever a new update drops."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Zombies Aren't Real support mods?",
+        "answer": "Yes. Zombies Aren't Real launched with Steam Workshop integration on November 13, 2026, allowing players to create, upload, and download community content directly through Steam. Because the game is in Early Access, the mod library is still growing, but the official infrastructure is already active."
+      },
+      {
+        "question": "Is there a Steam Workshop for Zombies Aren't Real?",
+        "answer": "Yes. The Steam store page lists Steam Workshop as an official feature, which means you can browse and subscribe to mods through the Workshop tab on the game's Steam community hub. Workshop items install and update automatically when you launch the game."
+      },
+      {
+        "question": "Where can I find Zombies Aren't Real mods?",
+        "answer": "Open the Zombies Aren't Real store page on Steam, click the Workshop tab at the top, and use the filters to sort by Most Popular, Most Subscribed, or Most Recent. You can also search by keyword if you're looking for a specific type of content, such as custom maps or unit tweaks."
+      },
+      {
+        "question": "How do I remove a mod from Zombies Aren't Real?",
+        "answer": "Go to the Workshop page for Zombies Aren't Real in your Steam client, click Subscribed Items, find the mod you want to remove, and click Unsubscribe. Steam will delete the mod files the next time you launch the game. If issues persist, verify your game files through Steam's Properties menu to restore any modified core files."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "arent",
+      "updates",
+      "release-date",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "release-date",
+    "pageType": "guide",
+    "navLabel": "Release Date",
+    "title": "zombies aren't real release date: Updated Steam Guide",
+    "description": "Check the Zombies Aren't Real release date, Early Access status, full release plans, and official trailer, with sources and dates for verified announcements.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Zombies Aren't Real Release Date and Early Access Status",
+      "lead": "Zombies Aren't Real entered Steam Early Access on November 13, 2026, priced at $8.99. This horde-defense strategy game tasks you with commanding military forces to contain a fast-spreading zombie infection across real-world cities while protecting civilians. You get a planning phase before each outbreak begins, then adapt your strategy in real time as the situation unfolds. Below, we cover the verified release date, current Early Access features, system requirements, and where to find official updates."
+    },
+    "sections": [
+      {
+        "id": "current-release-date-and-early-access-status",
+        "heading": "Current Release Date and Early Access Status",
+        "intro": "Zombies Aren't Real launched on Steam Early Access on November 13, 2026, and is available now for $8.99. Developed and published by Jogamedev, the game entered Early Access with a full set of playable features including single-player and online co-op modes, Steam Achievements, and Steam Workshop support for community-created content.",
+        "paragraphs": [
+          "Early Access means the game is still in active development. The core horde-defense gameplay is complete and playable, but Jogamedev continues to refine mechanics, balance, and content based on player feedback. You can expect ongoing updates and potential changes to features as the game progresses toward its full release.",
+          "The game requires a 64-bit Windows 10 or 11 system. Minimum specifications include a 4-core CPU at 3.0 GHz (such as an Intel Core i5-6500 or AMD Ryzen 3 1200), 8 GB of RAM, and a DirectX 11 GPU with 2 GB of VRAM. The developer recommends selecting \"Low\" graphics settings for a smoother experience on systems at or near the minimum threshold. You'll need 2 GB of available storage space to install the game."
+        ],
+        "table": {
+          "caption": "zombies aren't real release date Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Zombies Aren't Real core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "core-gameplay-and-what-early-access-includes",
+        "heading": "Core Gameplay and What Early Access Includes",
+        "intro": "Zombies Aren't Real is a horde-defense strategy game where you command military forces to contain a fast-spreading zombie infection across real-world cities while protecting civilians. The core loop centers on two distinct phases: planning and execution. Before each outbreak, you receive a bird's-eye view of the target city and are shown where the infection will begin. With limited resources, you must carefully position your military units, establish defensive perimeters, and plan your response strategy. Once the outbreak starts, you adapt in real time, redirecting forces, managing resource allocation, and making split-second decisions as the horde expands.",
+        "paragraphs": [
+          "Early Access currently includes the full horde-defense campaign with real-world city settings, the planning-phase system, and resource management mechanics. The game supports single-player missions and online co-op play with one friend, letting you tackle outbreaks solo or coordinate with a teammate. Steam features are fully integrated: you can earn achievements as you complete objectives and survive waves, and the Steam Workshop is live, enabling community members to create and share custom maps and scenarios. The adjustable text size and camera comfort options ensure accessibility across different player preferences and setups.",
+          "The Early Access release on November 13, 2026, marks the beginning of ongoing development. As the game evolves, new features, map varieties, and gameplay balance changes will roll out through patch updates. Players in Early Access help shape the final version through feedback and bug reports, with official patch notes and roadmap information available on the Steam store page and the game's dedicated Updates section."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current zombies aren't real release date Requirements",
+            "description": "Review the active mechanics and prerequisites inside Zombies Aren't Real before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Zombies Aren't Real patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "system-requirements-and-pc-compatibility",
+        "heading": "System Requirements and PC Compatibility",
+        "intro": "Zombies Aren't Real requires a 64-bit version of Windows 10 or 11. The minimum CPU is a quad-core processor running at 3.0 GHz, with Intel Core i5-6500 and AMD Ryzen 3 1200 listed as reference chips. You need 8 GB of RAM and at least 2 GB of free storage.",
+        "paragraphs": [
+          "On the graphics side, any DirectX 11 GPU with 2 GB VRAM meets the minimum bar. The Steam listing names the Intel UHD 620, GeForce GTX 750 Ti, and Radeon R7 260X as baseline options. If you are running integrated or older discrete graphics, the official notes recommend selecting the Low graphics preset for a smoother experience."
+        ],
+        "bullets": [
+          "OS: Windows 10 or 11 (64-bit only)",
+          "CPU: 4-core at 3.0 GHz (e.g., Intel Core i5-6500 or AMD Ryzen 3 1200)",
+          "RAM: 8 GB",
+          "GPU: DirectX 11 with 2 GB VRAM (e.g., GTX 750 Ti, Radeon R7 260X, Intel UHD 620)",
+          "DirectX: Version 11",
+          "Storage: 2 GB available space",
+          "Tip: Use the Low graphics preset on weaker hardware"
+        ]
+      },
+      {
+        "id": "where-to-find-the-official-steam-page-and-patch-updates",
+        "heading": "Where to Find the Official Steam Page and Patch Updates",
+        "intro": "The official store listing is hosted at store.steampowered.com/app/5185890. From there you can purchase the game, read the full feature list, check system requirements, and browse community discussions. Jogamedev, the developer and publisher, posts all verified announcements and patch notes through the Steam store page's news feed.",
+        "paragraphs": [
+          "For a structured view of updates since launch, visit our Updates page, which tracks confirmed changes and new content as they are officially announced. Bookmark the Steam store page to receive notifications when patches go live or when major roadmap milestones are reached."
+        ]
+      },
+      {
+        "id": "single-player-and-co-op-multiplayer-options",
+        "heading": "Single-Player and Co-op Multiplayer Options",
+        "intro": "Zombies Aren't Real supports both single-player and online co-op with one friend. Solo play lets you command your military forces and manage the outbreak at your own pace, making it ideal for learning the mechanics and experimenting with different defensive strategies. If you prefer a shared experience, you can invite a friend to join your session online, allowing both of you to coordinate resource allocation and tactical decisions in real time.",
+        "paragraphs": [
+          "The game features Steam Achievements, giving you goals to chase whether playing alone or with a partner. Steam Workshop support is also available, enabling the community to create and share custom content that extends the game's replayability and lets you experiment with player-made scenarios and modifications.",
+          "Both play modes use the same core loop: you receive advance warning of where the infection will start, plan your military deployment with limited resources, and then adapt your strategy as the outbreak unfolds across the city. Whether defending alone or coordinating with a co-op partner, your goal remains protecting civilians and containing the spread."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When did Zombies Aren't Real release?",
+        "answer": "Zombies Aren't Real entered Steam Early Access on November 13, 2026, developed and published by Jogamedev. The game is available now at $8.99 USD. For updates on the full release timeline and patch notes, check the official Steam store page and the site's Updates section."
+      },
+      {
+        "question": "What does Early Access mean for Zombies Aren't Real?",
+        "answer": "Early Access means the game is playable now but still in active development. You can play the full horde-defense campaign with all current features, including single-player and online co-op, Steam Achievements, and the level editor. Expect ongoing updates, balance changes, and new content as Jogamedev continues development."
+      },
+      {
+        "question": "Can I play Zombies Aren't Real with friends?",
+        "answer": "Yes. Zombies Aren't Real supports online co-op with one friend, letting you coordinate strategy and tackle outbreaks together in real time. You can also play solo to learn the mechanics at your own pace before teaming up."
+      },
+      {
+        "question": "What are the minimum PC requirements to run Zombies Aren't Real?",
+        "answer": "You need Windows 10 or 11 (64-bit), a 4-core CPU at 3.0 GHz or better (Intel Core i5-6500 / AMD Ryzen 3 1200), 8 GB RAM, and a DirectX 11 GPU with 2 GB VRAM (Intel UHD 620, GeForce GTX 750 Ti, or Radeon R7 260X). You'll also need 2 GB storage space. For smoother performance, the game recommends selecting \"Low\" in the graphics settings."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "arent",
+      "updates",
+      "mods",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "Zombies Aren't Real beginner guide: Updated First Run",
+    "description": "Plan your first Zombies Aren't Real run: read the city, manage your opening budget, deploy defenses, protect civilians, and adapt as the outbreak spreads.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Zombies Aren't Real Beginner Guide: Your First Run",
+      "lead": "Zombies Aren't Real gives you a planning window before each outbreak starts, showing the infection's starting location on a real-world city map. Use that time to position defenses, allocate your opening budget across ground units and air support, and establish safe zones for civilian evacuation. Your goal is to save at least 10% of the city's population—success depends on reading the map layout, prioritizing the right purchases, and adjusting your strategy as the outbreak spreads."
+    },
+    "sections": [
+      {
+        "id": "core-gameplay-loop-and-how-to-win",
+        "heading": "Core Gameplay Loop and How to Win",
+        "intro": "Each run in Zombies Aren't Real follows a clear structure: you start with a bird's-eye view of a real-world city and a marked infection origin point. Before the outbreak begins, you have a planning window to deploy military forces using your limited starting budget. Once the infection spreads, you adapt in real time by repositioning units, calling in air support, and establishing safe zones for civilian evacuation.",
+        "paragraphs": [
+          "Your objective is to save at least 10% of the city's population before time runs out or the infection consumes the entire map. Success requires balancing offensive containment—slowing the horde's expansion—with defensive perimeters around evacuation zones. You lose if civilian casualties drop below the 10% threshold or if your forces are overrun and the infection reaches critical mass.",
+          "The game rewards strategic planning over reactive play. Units deployed during the planning phase cost less and start in optimal positions, while mid-outbreak purchases arrive with delay and higher resource costs. Prioritize choke points, natural barriers, and high-density civilian areas during setup, then adjust your strategy as the outbreak reveals weak points in your defenses."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real beginner guide Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Zombies Aren't Real core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "planning-phase-read-the-city-and-deploy-bar",
+        "heading": "Planning Phase: Read the City and Deploy Bar",
+        "intro": "Before the outbreak begins, the game gives you a bird's eye view of the city and marks where the infection will start. Use this window to scan the map for natural choke points—narrow streets, bridges, or clustered buildings—that can slow the horde and let your units focus fire. Identify evacuation routes for civilians and note any open squares or wide boulevards where zombies can flank your defenses.",
+        "paragraphs": [
+          "The deployment interface shows your starting budget and available units. You'll place ground forces (infantry, barricades, or heavy weapons) and request air support strikes before the first wave spawns. Prioritize positions that cover multiple approach angles and protect the evacuation zones you identified. Since resources are limited, avoid scattering units across the entire map; concentrate them where the infection is most likely to push through first.",
+          "Once you confirm your deployment, the outbreak starts and the timer begins. You can still adjust tactics during play, but your opening setup determines whether you hold the line or lose critical ground in the first minutes. A strong planning phase lets you meet the 10% civilian survival threshold without scrambling to patch gaps mid-outbreak."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Zombies Aren't Real beginner guide Requirements",
+            "description": "Review the active mechanics and prerequisites inside Zombies Aren't Real before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Zombies Aren't Real patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "common-mistakes-and-next-steps",
+        "heading": "Common Mistakes and Next Steps",
+        "intro": "New players often overspend on air support in the first turns, leaving no budget for ground units when the infection reaches dense residential blocks. Another common error is placing all defenses near the spawn point instead of along evacuation routes, which lets zombies bypass your line and attack fleeing civilians. Ignoring the map's natural choke points—bridges, highways, or narrow streets—wastes the terrain advantage that could funnel infected toward concentrated fire.",
+        "paragraphs": [
+          "If you lose your first few runs, try the single-player mode to experiment with unit placement without time pressure, then move to online co-op with a friend to split coverage and share budget decisions. Steam Workshop offers community maps and scenarios that isolate specific mechanics, such as defending a single district or managing a limited unit roster. Achievements also guide progression by rewarding milestone strategies, helping you identify which tactics work under different outbreak conditions."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I buy first in Zombies Aren't Real?",
+        "answer": "Prioritize a mix of ground defenses and at least one early safe zone marker. Ground units let you establish a perimeter around the outbreak's starting point, slowing the infection while you funnel civilians to safety. Avoid spending your entire opening budget on air support—helicopters are powerful but expensive, and you'll need reserves to react when the horde breaks through your first line."
+      },
+      {
+        "question": "How does the planning phase work?",
+        "answer": "Before the outbreak begins, the game reveals the infection's starting location on the city map and gives you a fixed preparation window. You can place units, defenses, and safe zones during this time, but nothing moves or attacks yet. Use the pause to study roads, identify natural choke points, and position your forces so they can respond the moment zombies appear."
+      },
+      {
+        "question": "Where should I place my first garrison?",
+        "answer": "Position your first garrison at a choke point between the outbreak's origin and dense civilian neighborhoods. Look for intersections or narrow streets that force the horde into a killbox, letting a single unit cover multiple approach angles. Avoid open plazas or parks where zombies can spread in every direction—your early defenses work best when the map funnels enemies toward them."
+      },
+      {
+        "question": "What does the 10% objective mean?",
+        "answer": "You win a run by evacuating at least 10% of the city's starting civilian population to designated safe zones before time expires or your defenses collapse. The game tracks the percentage in real time, so you can see whether your current strategy is on pace. Losing too many civilians early makes the threshold mathematically impossible, forcing a restart or a shift to damage control."
+      },
+      {
+        "question": "When should I use air support instead of ground defenses?",
+        "answer": "Air support is most effective when the outbreak spreads faster than your ground units can reposition, or when you need to clear a dense horde blocking a critical evacuation route. Helicopters or drones cost more per deployment than infantry, so reserve them for emergencies or high-value targets. If the infection is still contained by your initial perimeter, ground defenses deliver better cost efficiency."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "arent",
+      "updates",
+      "mods",
+      "release-date"
+    ],
+    "lastReviewed": "2026-11-15"
+  }
+]
