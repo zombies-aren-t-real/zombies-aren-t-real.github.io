@@ -29,7 +29,7 @@ export function FixedTemplateHome({home}:{home:HomePageDefinition}){
           {home.hero.supportingText?<p className="mt-4 leading-7">{home.hero.supportingText}</p>:null}
           <div className="mt-6 flex flex-wrap gap-3">
             {home.hero.primaryLink?<Link className="button-primary" href={routePath(home.hero.primaryLink.slug)}>{home.hero.primaryLink.label}</Link>:null}
-            {siteConfig.game.officialUrl?<a className="button-secondary" href={siteConfig.game.officialUrl} target="_blank" rel="noopener noreferrer">Play on Roblox</a>:null}
+            {siteConfig.game.officialUrl?<a className="button-secondary" href={siteConfig.game.officialUrl} target="_blank" rel="noopener noreferrer">Play on Steam</a>:null}
           </div>
         </div>
         <div className="content-card">

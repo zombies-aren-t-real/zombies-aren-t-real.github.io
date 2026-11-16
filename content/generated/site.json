@@ -1,5 +1,5 @@
 {
-  "readyForLaunch": false,
+  "readyForLaunch": true,
   "siteName": "Zombies Aren't Real Guide",
   "shortName": "Zombies Aren't Real",
   "description": "Explore Zombies Aren't Real with a starter roadmap, gameplay guides, release information, official links, videos, and answers to common player questions.",
@@ -46,10 +46,10 @@
     "store.steampowered.com"
   ],
   "assets": {
-    "logo": "/images/zombies-aren-t-real-logo.svg",
-    "cover": "/images/zombies-aren-t-real-cover.svg",
+    "logo": "/images/zombies-aren-t-real-logo.jpg",
+    "cover": "/images/zombies-aren-t-real-game-cover.jpg",
     "openGraph": "/images/zombies-aren-t-real-og.svg",
-    "favicon": "/images/zombies-aren-t-real-logo.svg"
+    "favicon": "/images/zombies-aren-t-real-logo.jpg"
   },
   "game": {
     "name": "Zombies Aren't Real",
