@@ -130,7 +130,12 @@
       "updates",
       "mods",
       "release-date",
-      "beginner-guide"
+      "beginner-guide",
+      "co-op",
+      "corridor",
+      "mutation",
+      "zombie-type",
+      "city"
     ],
     "lastReviewed": "2026-11-15"
   },
@@ -352,7 +357,12 @@
       "arent",
       "updates",
       "release-date",
-      "beginner-guide"
+      "beginner-guide",
+      "co-op",
+      "corridor",
+      "mutation",
+      "zombie-type",
+      "city"
     ],
     "lastReviewed": "2026-11-15"
   },
@@ -608,8 +618,530 @@
       "arent",
       "updates",
       "mods",
-      "release-date"
+      "release-date",
+      "co-op",
+      "corridor",
+      "mutation",
+      "zombie-type",
+      "city"
     ],
     "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "co-op",
+    "pageType": "guide",
+    "navLabel": "Co-op",
+    "title": "Zombies Aren't Real Coop Guide (2026) – How It Works & Tips",
+    "description": "Zombies Aren't Real Coop explained on PC and Steam: how it works, what it affects, the best way to use it and mistakes to avoid. Includes full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Zombies Aren't Real Coop Guide: How It Works & Best Tips",
+      "lead": "Zombies Aren't Real supports online co-op, but the available game details do not explain player count, matchmaking, shared controls, or how progress is handled between players. The confirmed co-op feature is listed on the Steam store page alongside multiplayer and single-player. Treat co-op as a way to coordinate the game's city-defense decisions, not as a set of documented roles or bonuses. The sections below separate confirmed features from practical planning advice, explain what to check before a session, and flag assumptions that could lead to wasted resources.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "how-online-co-op-is-confirmed-to-work",
+        "heading": "How Online Co-op Is Confirmed to Work",
+        "intro": "The Steam listing identifies Zombies Aren't Real as supporting Co-op and Online Co-op, as well as single-player and multiplayer. That confirms online co-op is a listed game feature, but it does not explain how players connect or what they share during a session.",
+        "paragraphs": [
+          "The game’s listed premise involves commanding military forces in a city-defense strategy setting. The available co-op details do not establish whether players control separate forces, make decisions together, or have distinct responsibilities. Check the current Steam feature listing and the in-game multiplayer menus before planning a session around any particular setup."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real Coop at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "How Online Co-op Is Confirmed to Work",
+              "The Steam listing identifies Zombies Aren't Real as supporting Co-op and Online Co-op, as well as single-player and multiplayer."
+            ],
+            [
+              "Co-op Mechanics and Details to Verify",
+              "The Steam listing confirms online co-op, but it does not establish how a session is created or what players share."
+            ],
+            [
+              "Coordinate Decisions Without Assuming Fixed Roles",
+              "Agree on what to protect first and what can wait before committing resources."
+            ],
+            [
+              "Avoid Unsupported Co-op Assumptions",
+              "Don't choose co-op for an expected reward bonus or build your plan around a role restriction you haven't seen in-game."
+            ]
+          ]
+        },
+        "bullets": [
+          "Confirm that the current listing still includes Online Co-op before arranging a session.",
+          "Check the multiplayer menu for the available way to host or join a game; the listed feature does not specify matchmaking or invitation steps.",
+          "Once connected, verify in-game which decisions and resources are shared before coordinating a plan around them."
+        ]
+      },
+      {
+        "id": "co-op-mechanics-and-details-to-verify",
+        "heading": "Co-op Mechanics and Details to Verify",
+        "intro": "The Steam listing confirms online co-op, but it does not establish how a session is created or what players share. Before planning a run together, check the current game’s multiplayer menu and the store listing for the options actually available in your version. Confirm the session setup first, then agree on how to coordinate decisions once play begins.",
+        "paragraphs": [
+          "Player Count and Session Setup: Look for a stated player limit and whether the host can invite friends or use another session method. Do not assume matchmaking, public lobbies, or a particular party size unless the current interface or listing confirms it. If you cannot find a limit, start with the players the game allows you to invite rather than relying on an assumed maximum.",
+          "Shared Progress and In-Game Controls: Check whether a session shares one city and its resources, and whether each player can issue commands at the same time. Confirm how pausing, speeding up, and placing units behave for everyone before relying on those controls during a crisis. The available listing does not explain these multiplayer details, so verify them in a low-pressure session before committing to a coordinated plan."
+        ]
+      },
+      {
+        "id": "coordinate-decisions-without-assuming-fixed-roles",
+        "heading": "Coordinate Decisions Without Assuming Fixed Roles",
+        "intro": "Agree on what to protect first and what can wait before committing resources. With a limited budget, compare proposals by asking what each one protects and what you would have to leave unfunded. For example, if one teammate wants to reinforce an area you already plan to cover and another flags an area with no plan at all, compare the benefit of extra coverage against the cost of leaving that gap.",
+        "paragraphs": [
+          "Split the discussion rather than assigning permanent jobs. Ask one teammate to explain the proposed commitment and another to point out what it leaves uncovered. Once you agree, say the decision back in plain language: what you are committing to now, what you are holding back, and what would make you reconsider. That gives everyone the same plan to refer to when a new suggestion comes up.",
+          "When conditions change, name the part of the city you mean and explain what changed before asking to switch priorities. If a teammate proposes redirecting resources, ask what that would leave uncovered. State the new plan out loud so nobody keeps making decisions based on the old one.",
+          "For help choosing opening deployments and planning for an outbreak, see the Zombies Aren't Real beginner guide."
+        ],
+        "bullets": [
+          "Before committing resources, ask: What are we protecting now, and what are we choosing to leave for later?",
+          "Before changing course, ask: What changed, and which part of the original plan are we dropping?"
+        ]
+      },
+      {
+        "id": "avoid-unsupported-co-op-assumptions",
+        "heading": "Avoid Unsupported Co-op Assumptions",
+        "intro": "Don't choose co-op for an expected reward bonus or build your plan around a role restriction you haven't seen in-game. If a friend volunteers to handle purchases, treat that as an agreement between players, not proof that the game gives them exclusive control. Likewise, more people helping with decisions doesn't mean the game gives you a bigger budget.",
+        "paragraphs": [
+          "Don't schedule a session around an assumed group size. If you're inviting several friends, have everyone try joining before setting aside time for a full run. Getting one friend into the session only tells you that the setup works for that group size, not how many more players can join.",
+          "Keep your first co-op run low-stakes if progress matters to you. If you're counting on something you unlocked in solo play, check that it's selectable in co-op before committing to a plan that needs it. If you want to know whether a co-op result carries back to solo play, compare what each player sees after a short run. One player's result doesn't tell you what everyone else kept."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does co-op work in Zombies Aren't Real?",
+        "answer": "The Steam listing confirms co-op and online co-op as supported features. It does not establish the number of players, how sessions are created, or whether players share control and progress, so check the current in-game session options before planning around those details."
+      },
+      {
+        "question": "Is co-op worth it in Zombies Aren't Real?",
+        "answer": "That depends on whether you prefer coordinating decisions with another player. The game is listed with both single-player and online co-op, but no specific co-op-only bonuses or difficulty changes are established here; choose based on your preferred way to play rather than expecting extra rewards."
+      },
+      {
+        "question": "What is the best co-op strategy in Zombies Aren't Real?",
+        "answer": "Agree on priorities before spending limited resources, and make sure both players understand the same plan. The game details provided do not confirm assigned roles or special co-op mechanics, so coordinate flexibly and consult the beginner guide for the underlying outbreak-planning and defense advice."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "arent",
+      "mods"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "corridor",
+    "pageType": "guide",
+    "navLabel": "Corridor",
+    "title": "Zombies Aren't Real Corridor Explained (2026) – Mechanics",
+    "description": "Corridor in Zombies Aren't Real on PC and Steam: how it works, step-by-step tips and what experienced players do differently. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Zombies Aren't Real Corridor Explained: Mechanics, Tips & Mistakes",
+      "lead": "In Zombies Aren't Real, corridor and evac corridor are useful shorthand for a proposed route to a civilian evacuation safe zone, but the terms do not establish a separate in-game mechanic. Start by choosing a destination and checking where the route sits relative to the marked infection origin. Use the pre-outbreak planning window for that first check, then reassess the route as the outbreak spreads. The checklist below separates what to look for on the city map from what to reconsider once the run is underway.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "an-evac-corridor-is-a-route-not-the-safe-zone",
+        "heading": "An Evac Corridor Is a Route, Not the Safe Zone",
+        "intro": "An evac corridor is a planning term for the path you are evaluating toward a civilian evacuation safe zone. The destination and the route are different: a safe zone is the place you are trying to establish for evacuation, while the corridor is the path you want to assess in relation to that destination. The game fact here confirms that safe zones can be established during the pre-outbreak planning window; it does not establish a separate corridor command or placement tool.",
+        "paragraphs": [
+          "Use the distinction to keep your map decisions clear. First identify the safe-zone destination you are planning around. Then consider the route leading toward it as a proposal to evaluate, not as a feature you need to activate. This wording also avoids treating a corridor as a prerequisite for evacuation. The practical question is whether the destination and the route you have in mind fit your plan for helping civilians, rather than whether you have built or selected a formally named corridor."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real Corridor at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "An Evac Corridor Is a Route, Not the Safe Zone",
+              "An evac corridor is a planning term for the path you are evaluating toward a civilian evacuation safe zone."
+            ],
+            [
+              "Check the Route Against the Marked Infection Origin",
+              "Use the infection marker as a fixed reference while you read the city map during the planning window."
+            ],
+            [
+              "Compare Routes Before Committing Resources",
+              "Compare proposed routes by asking who each one is meant to help reach a safe zone."
+            ],
+            [
+              "Recheck the Route as the Outbreak Spreads",
+              "An evacuation route is an opening plan, not a guarantee that the same path will remain useful throughout the outbreak."
+            ]
+          ]
+        },
+        "bullets": [
+          "Route: the path toward the civilian evacuation destination that you are evaluating as part of your plan.",
+          "Safe zone: the destination established for civilian evacuation during the planning window."
+        ]
+      },
+      {
+        "id": "check-the-route-against-the-marked-infection-origin",
+        "heading": "Check the Route Against the Marked Infection Origin",
+        "intro": "Use the infection marker as a fixed reference while you read the city map during the planning window. It tells you where the outbreak starts, not which streets will stay open. Compare the full paths of two routes rather than judging them by how far the safe zone is from the marker.",
+        "paragraphs": [
+          "For the rest of the opening setup, see the Zombies Aren't Real beginner guide."
+        ],
+        "bullets": [
+          "Locate the marked infection origin, then find your intended safe zone on the same map.",
+          "Trace your proposed route along the streets from the area you want to evacuate to the safe zone. Follow the turns rather than drawing a straight line to the destination, and note where the path comes closest to the marker.",
+          "If you can see another route to the same safe zone, trace it from the same starting area. Check whether it avoids the stretch closest to the origin or simply takes a different turn before joining that same stretch."
+        ]
+      },
+      {
+        "id": "compare-routes-before-committing-resources",
+        "heading": "Compare Routes Before Committing Resources",
+        "intro": "Compare proposed routes by asking who each one is meant to help reach a safe zone. If both routes serve the same group of civilians, ask whether supporting the first would leave enough resources for another part of the city. If they serve different groups, decide which group would lose your support if you put more into the first route.",
+        "paragraphs": [
+          "Say your first route is meant to help civilians near the city center, while an alternative would serve a group on the other side of the map. You could reinforce the first route, but that would leave fewer resources for the second group. Keeping some resources available gives you the option to help that group later, though it means doing less for the first route now. The choice is about where extra support would help civilians most, not which route you drew first.",
+          "Treat this as a planning trade-off, not a separate corridor cost or a fixed build order. Before committing more, name what you'd give up elsewhere. If you can't say who the extra support is meant to help, hold those resources until you have a clearer use for them."
+        ]
+      },
+      {
+        "id": "recheck-the-route-as-the-outbreak-spreads",
+        "heading": "Recheck the Route as the Outbreak Spreads",
+        "intro": "An evacuation route is an opening plan, not a guarantee that the same path will remain useful throughout the outbreak. The game gives you time to plan before an outbreak begins, then asks you to adapt in real time as events unfold. Revisit the map as the infection spreads and compare its current position with the route you intended to support.",
+        "paragraphs": [
+          "Before committing more resources, ask whether that route still serves the civilians you meant to help. If the outbreak is spreading toward the path, pause and reassess the destination, the route’s position, and whether your remaining resources would be more useful elsewhere. Keep the decision tied to what the map shows now rather than assuming your opening plan still fits.",
+          "This is a planning check, not a claim that civilians automatically choose another route or that a path closes at a specific threshold. The game’s exact route behavior is not established here, so judge whether to continue supporting your plan from the changing outbreak situation you can observe."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is corridor worth it in Zombies Aren't Real?",
+        "answer": "It is worth planning a route when it helps you decide how to get civilians to a safe zone. Judge the plan by whether it serves that evacuation goal, rather than by whether it is the shortest line on the map. Saving civilians is the objective; drawing up a route is a means to that end."
+      },
+      {
+        "question": "What is the fastest way to check zombies aren't real corridor?",
+        "answer": "Players can verify zombies aren't real corridor directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "How often does zombies aren't real corridor change after updates?",
+        "answer": "Players can verify zombies aren't real corridor directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "arent",
+      "mods"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "mutation",
+    "pageType": "guide",
+    "navLabel": "Mutation",
+    "title": "Zombies Aren't Real Mutations (2026) – Tips & Strategy",
+    "description": "Get more out of mutation in Zombies Aren't Real on PC and Steam: the mechanics that matter, a simple strategy to follow and the traps to avoid. Check our guide.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Zombies Aren't Real Mutations: Strategy, Key Mechanics & What to Avoid",
+      "lead": "Don't build your opening plan around Zombies Aren't Real mutations: the outbreak spreading is not, by itself, a sign that a mutation has occurred. If the game labels something as a mutation, note exactly what it says changed before deciding whether to respond. Use the marked infection origin as a reference so you don't mistake a different starting position for a new effect. If you compare two runs, keep the city and opening decisions as similar as possible. The checklist below separates what you saw, what the game named, and what would actually change your next decision.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "outbreak-spread-alone-does-not-identify-a-mutation",
+        "heading": "Outbreak Spread Alone Does Not Identify a Mutation",
+        "intro": "Zombies Aren't Real centers on containing a fast-spreading infection in a city, so seeing it reach another area is part of the outbreak baseline. That observation tells you where the infection spread; by itself, it does not show that a mutation occurred or explain why the outbreak moved that way.",
+        "paragraphs": [
+          "Separate what the map shows from what the game explicitly labels. If you suspect a mutation, look for a clear in-game notice naming what changed, then record that detail before adjusting your response. Without such a label, avoid assigning a mutation trigger, timing rule, or stat change to ordinary spread; those details are not established here.",
+          "For a useful comparison, keep the city and opening decisions as similar as possible, and check the marked infection origin in each run. A difference is a clue to inspect, not proof of a mutation. The beginner guide covers how to read the starting map and plan an opening response."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real Mutations at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Outbreak Spread Alone Does Not Identify a Mutation",
+              "Zombies Aren't Real centers on containing a fast-spreading infection in a city, so seeing it reach another area is part of the outbreak baseline."
+            ],
+            [
+              "Compare Runs With the Same City and Starting Location",
+              "During the planning window, check the infection marker before making your first move."
+            ],
+            [
+              "Change Your Plan Only When the Difference Affects a Decision",
+              "Before moving a defense or revising your opening purchases, name the civilian evacuation route or safe zone that would benefit."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "compare-runs-with-the-same-city-and-starting-location",
+        "heading": "Compare Runs With the Same City and Starting Location",
+        "intro": "During the planning window, check the infection marker before making your first move. The city name alone isn't enough: if the marker is beside a different street or landmark, set that run aside for this comparison. A screenshot of the opening map gives you an easy reference when you start another run.",
+        "paragraphs": [
+          "When the city and marker match, repeat your opening placements in the same order as closely as you can. If you put a unit in a different spot or make a different opening purchase, note that alongside what you observe. Otherwise, you may end up comparing two opening plans rather than two runs with the same setup.",
+          "Compare the runs at the same point after the outbreak starts, and describe the difference before trying to explain it. For example, write down that the infection reached a particular intersection earlier in one run. That's a useful clue to check on another attempt, not proof that a mutation caused it.",
+          "For help getting oriented on the starting map, see the Zombies Aren't Real beginner guide at /beginner-guide/."
+        ]
+      },
+      {
+        "id": "change-your-plan-only-when-the-difference-affects-a-decision",
+        "heading": "Change Your Plan Only When the Difference Affects a Decision",
+        "intro": "Before moving a defense or revising your opening purchases, name the civilian evacuation route or safe zone that would benefit. Then name what would lose coverage or funding. If you can't point to a specific evacuation problem the change would solve, keep your opening plan rather than spending the budget on a reaction.",
+        "paragraphs": [
+          "For example, if the outbreak threatens the approach to your planned safe zone, consider moving a ground unit to cover it. Check the unit's original assignment before committing: if that move leaves another evacuation approach exposed, compare which route matters more to the civilians you're trying to save. Moving a defense isn't automatically an improvement just because it puts the unit closer to the outbreak."
+        ],
+        "bullets": [
+          "Before shifting opening funds from ground units to air support, name the job you want air support to do and the ground assignment you'd have to drop.",
+          "If your chosen safe zone still serves the civilians you plan to evacuate, keep it rather than changing the destination and the defenses at the same time.",
+          "Make the smallest adjustment that addresses the problem first, then check whether the rest of your evacuation plan still works."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the fastest way to check zombies aren't real mutations?",
+        "answer": "Players can verify zombies aren't real mutations directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "How often does zombies aren't real mutations change after updates?",
+        "answer": "Players can verify zombies aren't real mutations directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "Where can players verify official zombies aren't real mutations announcements?",
+        "answer": "Players can verify zombies aren't real mutations directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "arent",
+      "mods"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "zombie-type",
+    "pageType": "guide",
+    "navLabel": "Zombie Type",
+    "title": "Zombies Aren't Real Zombie Types Guide (2026) – How It Works",
+    "description": "Zombies Aren't Real Zombie Types explained on PC and Steam: how it works, what it affects, the best way to use it and mistakes to avoid. Updated for Steam.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Zombies Aren't Real Zombie Types Guide: How It Works & Best Tips",
+      "lead": "The Steam description for Zombies Aren't Real does not list zombie types or explain whether they affect progression. That does not mean every zombie behaves the same way. If you notice one moving or reacting differently, note what it did and whether the game gave it a distinct name. Keep the behavior and the label separate: an encounter can tell you what happened without telling you what to call it. The comparison below shows what you can conclude from each clue and points you to the beginner guide for first-run planning.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "what-the-steam-description-says-about-zombies",
+        "heading": "What the Steam Description Says About Zombies",
+        "intro": "The official Steam description presents Zombies Aren’t Real as a horde-defense strategy game about deploying military forces against a fast-spreading zombie infection and saving civilians. It explains the broad situation and your responsibility as the commander, but it does not provide a named roster of zombie classes or explain type-specific progression.",
+        "paragraphs": [
+          "That distinction matters when you are trying to understand zombie types. A description that omits enemy categories does not prove that every zombie behaves identically, and it does not prove that separate types are hidden somewhere in the current game. It only means the public overview does not give enough information to assign names, roles, statistics, or progression effects to individual enemies.",
+          "For now, treat the infection as the confirmed subject of the game rather than assuming a complete type system. During a run, you can record useful observations such as whether an enemy moves differently, survives longer, approaches a defense in an unusual way, or creates a different threat for civilians. Those observations may help you compare encounters, but they are not automatically evidence of a formal zombie type.",
+          "The safest way to read a suspected type is to separate three things: what the enemy did, what the game visibly called it, and what effect the encounter had on your plan. A behavior can be real without having an official label. A label, if the game displays one, can identify an enemy without proving its exact stats or the best counter. Keep those categories separate until the game itself connects them.",
+          "This makes the zombie-type question useful as an observation guide, not yet a complete classification chart. Start with the confirmed horde-defense objective, watch how each encounter affects your defensive decisions, and avoid building a strategy around an assumed weakness. The beginner guide covers the broader first-run planning process; this page adds the narrower rule for interpreting unusual zombie behavior without turning an observation into an unsupported mechanic."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real Zombie Types at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "What the Steam Description Says About Zombies",
+              "The official Steam description presents Zombies Aren’t Real as a horde-defense strategy game about deploying military forces against a fast-spreading…"
+            ],
+            [
+              "A Different Behavior Is Not a Type Name",
+              "When a zombie does something unexpected, describe the action before guessing what caused it."
+            ]
+          ]
+        },
+        "bullets": [
+          "The Steam description confirms a fast-spreading infection, military deployment, and civilian rescue as the central context.",
+          "It does not name zombie classes or describe type-specific progression.",
+          "An unusual behavior is an observation; an in-game label is a name; neither alone proves statistics or a counter.",
+          "The current description does not establish a complete zombie-type roster."
+        ]
+      },
+      {
+        "id": "a-different-behavior-is-not-a-type-name",
+        "heading": "A Different Behavior Is Not a Type Name",
+        "intro": "When a zombie does something unexpected, describe the action before guessing what caused it. For example, if one zombie reaches a corner before another, “it reached the corner first” is more useful than “it was a faster type.” The first description gives you something to compare next time; the second assumes both a speed difference and a separate class.",
+        "paragraphs": [
+          "If the behavior affects a decision you need to make right now, respond to what is happening on the map rather than choosing a counter based on a guessed type. When comparing encounters later, check whether the zombies started in similar positions and followed similar routes before treating the difference as a pattern."
+        ],
+        "bullets": [
+          "Observed behavior tells you what happened in that encounter. Even if you see it again under similar conditions, the pattern alone does not tell you whether the game treats those zombies as a separate type.",
+          "An explicit in-game label, if one appears, tells you what the game calls the zombie. Use the displayed wording, but do not infer health, speed, or an effective counter from the name alone."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the fastest way to check zombies aren't real zombie types?",
+        "answer": "Players can verify zombies aren't real zombie types directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "How often does zombies aren't real zombie types change after updates?",
+        "answer": "Players can verify zombies aren't real zombie types directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "Where can players verify official zombies aren't real zombie types announcements?",
+        "answer": "Players can verify zombies aren't real zombie types directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "arent",
+      "mods"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "city",
+    "pageType": "guide",
+    "navLabel": "City",
+    "title": "Zombies Aren't Real Cities Explained (2026) – Mechanics",
+    "description": "City in Zombies Aren't Real on PC and Steam: how it works, step-by-step tips and what experienced players do differently. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Zombies Aren't Real Cities Explained: Mechanics, Tips & Mistakes",
+      "lead": "In Zombies Aren't Real, cities shape your opening plan: where the outbreak starts affects which civilians you can realistically help and where your limited budget will do the most good. Start by checking the infection marker against the city layout before you spend anything. A safe zone is only useful to your plan if you’ve also considered how civilians will reach it. This guide breaks down the rescue target, the map checks to make before deployment, and when to change your plan instead of spending more on it.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "how-city-maps-shape-a-run",
+        "heading": "How City Maps Shape a Run",
+        "intro": "In Zombies Aren't Real, you command military forces from an overhead view of a real-world city. Each run gives you time to prepare before the zombie outbreak begins. Use that window to decide which parts of the city your response will cover. With limited resources, start by picking a group of civilians to protect and identifying where on the map a deployment would help them.",
+        "paragraphs": [
+          "The city layout matters because a deployment has a job in a specific place. For example, if your plan calls for protecting civilians as they leave a neighborhood, judge the placement by how it helps that group get out. A position that looks useful on its own may serve a different part of the city than the one your plan is meant to help.",
+          "Once the infection starts spreading, your forces try to contain it so you can save as many civilians as possible. That makes civilian survival the measure of your response, rather than how much of the map you can cover. For a step-by-step walkthrough of your first run, see the Beginner Guide."
+        ],
+        "table": {
+          "caption": "Zombies Aren't Real Cities at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "How City Maps Shape a Run",
+              "In Zombies Aren't Real, you command military forces from an overhead view of a real-world city."
+            ],
+            [
+              "What the 10% Civilian Rescue Target Means",
+              "The minimum rescue target is at least 10% of the city’s population, according to the Beginner Guide."
+            ],
+            [
+              "Read the Infection Marker Before You Deploy",
+              "Use the infection marker to choose which civilians to help first."
+            ],
+            [
+              "Choose Ground Units or Air Support Based on What the Plan Needs",
+              "Before buying a ground unit or air support, name the civilians the purchase is meant to help and the safe zone you plan to use for them."
+            ],
+            [
+              "Don't Keep Funding an Opening Plan That No Longer Helps Civilians",
+              "The preparation phase gives you time to choose an opening response, but the plan is not a promise to keep spending in the same direction."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "what-the-10-civilian-rescue-target-means",
+        "heading": "What the 10% Civilian Rescue Target Means",
+        "intro": "The minimum rescue target is at least 10% of the city’s population, according to the Beginner Guide. Treat that figure as a threshold, not a reason to stop helping civilians once it is reached: the broader objective is to save as many as possible.",
+        "paragraphs": [
+          "A percentage scales with population. Ten percent of a larger city represents more people than ten percent of a smaller one, so the same target does not mean the same headcount on every map. The exact headcount depends on the population shown for that city; no rounding rule or mode-specific threshold is established here.",
+          "Use the target as a baseline while choosing whom to prioritize, then keep working toward additional rescues when your plan can support them. For the full first-run sequence, see the Beginner Guide."
+        ],
+        "bullets": [
+          "Minimum target: rescue at least 10% of the city's population.",
+          "Broader objective: save as many civilians as possible.",
+          "Headcount: varies with the population of the selected city."
+        ]
+      },
+      {
+        "id": "read-the-infection-marker-before-you-deploy",
+        "heading": "Read the Infection Marker Before You Deploy",
+        "intro": "Use the infection marker to choose which civilians to help first. It shows where the outbreak starts, not which part of the city it will reach next. During preparation, compare two civilian areas on the same map before committing to either one.",
+        "paragraphs": [
+          "Imagine your opening plan is to help civilians near a train station, but the marker is beside a residential block across town. That gives you a reason to consider helping the residential block first: it’s next to the known starting point. If the marker were beside the station instead, the same check would support your original priority. Neither placement tells you which area the infection will reach after it starts."
+        ],
+        "bullets": [
+          "Find the infection marker and note which part of the city it sits in. Use nearby streets or blocks as reference points so you can describe where it is relative to the civilians you want to help.",
+          "Name the civilian area your opening plan is meant to help. A specific group, such as the civilians near the station, gives you something concrete to compare with the area beside the marker.",
+          "Pick a second civilian area on the same map. Compare where each sits relative to the origin, then decide whether the marker gives you a reason to switch priorities or whether your first choice still makes sense."
+        ]
+      },
+      {
+        "id": "choose-ground-units-or-air-support-based-on-what-the-plan-needs",
+        "heading": "Choose Ground Units or Air Support Based on What the Plan Needs",
+        "intro": "Before buying a ground unit or air support, name the civilians the purchase is meant to help and the safe zone you plan to use for them. Then look at what that purchase leaves you enough budget to buy. If it rules out another option, name the group or part of the evacuation plan that would have to go without it.",
+        "paragraphs": [
+          "Suppose you've picked a safe zone for civilians near a city square and are also planning for a second group on the other side of the map. Your opening budget can cover either of these purchases, but not both:",
+          "Choose based on which group your opening plan is meant to help first. If both purchases would serve the same group, compare what each would add to the plan you already have. An option that duplicates a job you've already accounted for is less useful than one that addresses a part of the evacuation you haven't planned for."
+        ],
+        "bullets": [
+          "Buy the ground unit for the group near the square, leaving out the air support you had considered for the second group.",
+          "Buy the air support for the second group, leaving out the ground unit you had planned for the square."
+        ]
+      },
+      {
+        "id": "don-t-keep-funding-an-opening-plan-that-no-longer-helps-civilians",
+        "heading": "Don't Keep Funding an Opening Plan That No Longer Helps Civilians",
+        "intro": "The preparation phase gives you time to choose an opening response, but the plan is not a promise to keep spending in the same direction. Once the outbreak begins, reassess what is happening and whether your original priority still serves the civilians you meant to protect. The game calls for adapting in real time as the situation unfolds; that means judging each next decision against the current objective, not just defending an earlier choice.",
+        "paragraphs": [
+          "Use this three-part check before committing more resources:",
+          "1. Identify what has changed in the situation since you made the opening plan.",
+          "2. Ask whether the original priority still helps the same civilian group.",
+          "3. Compare it with the next objective that could help civilians, then decide which deserves attention now.",
+          "For example, if the area you prioritized remains relevant to the civilians you intended to help, continuing to support that objective may still make sense. If the situation instead makes another area more important to your rescue effort, reconsider where your next commitment should go. These are planning examples, not guarantees about how the outbreak will spread or what units can be moved. Avoid treating earlier spending as a reason by itself to keep funding an objective; make the next choice based on whom it can help now. The key is to adapt your strategy as events unfold without assuming that purchases can be refunded or every deployed unit can be repositioned."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does city work in Zombies Aren't Real?",
+        "answer": "The map puts the outbreak origin and the areas you want to protect in the same overhead view. You can use the preparation window to connect those two pieces of information: decide which civilians need help first, then choose where to commit your limited resources."
+      },
+      {
+        "question": "Is city worth it in Zombies Aren't Real?",
+        "answer": "Yes—read the city before making your first purchase. The Beginner Guide describes the rescue minimum as a share of the city's population, not a fixed headcount. That makes it more useful to judge an opening by whom it helps than by how much of the map it covers."
+      },
+      {
+        "question": "What is the best city strategy in Zombies Aren't Real?",
+        "answer": "Pick a civilian rescue priority before deciding how to split the budget between ground units and air support. Give each purchase a job that supports that priority. After the outbreak starts, check whether the same commitment still helps; if circumstances change, reconsider the objective before spending more."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "arent",
+      "mods"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
   }
 ]
